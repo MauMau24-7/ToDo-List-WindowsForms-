@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\ToDo-List\ToDo-List\bin\Debug\net8.0-windows\ToDo-List.exe
+C:\Users\PC\source\repos\ToDo-List\ToDo-List\bin\Debug\net8.0-windows\ToDo-List.deps.json
+C:\Users\PC\source\repos\ToDo-List\ToDo-List\bin\Debug\net8.0-windows\ToDo-List.runtimeconfig.json
+C:\Users\PC\source\repos\ToDo-List\ToDo-List\bin\Debug\net8.0-windows\ToDo-List.dll
+C:\Users\PC\source\repos\ToDo-List\ToDo-List\bin\Debug\net8.0-windows\ToDo-List.pdb
+C:\Users\PC\source\repos\ToDo-List\ToDo-List\obj\Debug\net8.0-windows\ToDo_List.Form1.resources
+C:\Users\PC\source\repos\ToDo-List\ToDo-List\obj\Debug\net8.0-windows\ToDo-List.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\ToDo-List\ToDo-List\obj\Debug\net8.0-windows\ToDo-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ToDo-List\ToDo-List\obj\Debug\net8.0-windows\ToDo-List.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ToDo-List\ToDo-List\obj\Debug\net8.0-windows\ToDo-List.AssemblyInfo.cs
+C:\Users\PC\source\repos\ToDo-List\ToDo-List\obj\Debug\net8.0-windows\ToDo-List.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ToDo-List\ToDo-List\obj\Debug\net8.0-windows\ToDo-List.dll
+C:\Users\PC\source\repos\ToDo-List\ToDo-List\obj\Debug\net8.0-windows\refint\ToDo-List.dll
+C:\Users\PC\source\repos\ToDo-List\ToDo-List\obj\Debug\net8.0-windows\ToDo-List.pdb
+C:\Users\PC\source\repos\ToDo-List\ToDo-List\obj\Debug\net8.0-windows\ToDo-List.genruntimeconfig.cache
+C:\Users\PC\source\repos\ToDo-List\ToDo-List\obj\Debug\net8.0-windows\ref\ToDo-List.dll
